@@ -1,4 +1,4 @@
-# blog page of yibudak
+# blog page of ismailyyildirim
 
 greetz to https://github.com/tocttou
 
