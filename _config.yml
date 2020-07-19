@@ -2,9 +2,9 @@ title: 'yibudak &#124; ceng student'
 description: "Personal Blog of Yiğit Budak"
 
 author:
-  name: "Yiğit Budak"
-  email: "yigit@outlook.com"
-  url: "https://yibudak.github.io"
+  name: "İSMAİL YILDIRIM"
+  email: "iso.yldrm74@gmail.com"
+  url: "https://yldrm25.github.io"
 
 baseurl: /
 
@@ -31,5 +31,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "yibudak"
+owner : "ismailyildirim"
 year : "2020"
